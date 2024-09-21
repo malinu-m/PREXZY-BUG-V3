@@ -8,13 +8,13 @@ global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '254748336572'  //creator number
-global.ownername = 'Toxic' //owner name
-global.botname = '𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻3' //name of the bot
+global.ownernumber = '221762996937'  //creator number
+global.ownername = 'MAYZA' //owner name
+global.botname = 'MAYZA 𝕭𝖀𝕾 ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '👑Prexzy\n\nContact: +2347063956321'
+global.author = 'MAYZA'
 
 //console view/theme
 global.themeemoji = '🪀'
